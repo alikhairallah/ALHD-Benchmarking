@@ -26,6 +26,4 @@ Note: before running the Python files, you need to update the dataset and logs f
 ## Citation
 If you use this repository or the dataset, please cite:
 
-ALHD: A Large-Scale and Multigenre Benchmark Dataset for Arabic LLM-Generated Text Detection
-Ali Khairallah, Arkaitz Zubiaga, 2025
-DOI: 10.5281/zenodo.17249602
+Khairallah, A., & Zubiaga, A. (2025). ALHD: A Large-Scale and Multigenre Benchmark Dataset for Arabic LLM-Generated Text Detection (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17249602
