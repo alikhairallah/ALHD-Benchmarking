@@ -1,4 +1,4 @@
-# ALHD-Benchmarking-experiments
+# ALHD-Benchmarking
 This repository contains the code and scripts used to benchmark the ALHD (Arabic LLM and Human Dataset), a large-scale, multigenre, and comprehensive dataset for detecting Arabic LLM-generated texts.
 
 ## Dataset
