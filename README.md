@@ -17,8 +17,11 @@ This repository provides:
 - Logging utilities for reproducibility.
 
 ## Usage examples
-python ALHD_Traditional_Benchmarking.py --test_sources SANAD --data_size 10
-python ALHD_Traditional_Benchmarking.py --test_sources SANAD --data_size full
+Each folder contain sample script to run the code, make sure to configure your environment using 'environment.yml' file, it contains some essential libraries, however while running code you might need to install other libraries. below are two examples of running code manually:
+- python ALHD_Traditional_Benchmarking.py --test_sources SANAD --data_size 10
+- python ALHD_Traditional_Benchmarking.py --test_sources SANAD --data_size full
+
+Note: before running the Python files, you need to update the dataset and logs folder paths. For the LLM experiments, you must update the scratch path as the code was arginally developed for the Apocrita HPC environment.
 
 ## Citation
 If you use this repository or the dataset, please cite:
